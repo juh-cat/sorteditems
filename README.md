@@ -18,7 +18,15 @@ if you don't have git, download the zip file by clicking the green Code button. 
 
 if you have git:
 
+git bash:
+
 `cd /c/Users/"$USERNAME"/Documents/Trackmania/Items`
+
+`git pull`
+
+powershell:
+
+`cd "C:\Users\$env:USERNAME\Documents\Trackmania\Items"`
 
 `git pull`
 
