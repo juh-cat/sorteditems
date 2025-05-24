@@ -2,7 +2,7 @@
 new item set, losely based on the ski's set
 
 # installation
-if you have git (make sure your Items folder is empty and backed up):
+### if you have git (make sure your Items folder is empty and backed up):
 
 git bash:
 
@@ -16,7 +16,7 @@ if you don't have git, download the zip file by clicking the green Code button. 
 
 # updating
 
-if you have git:
+### if you have git:
 
 git bash:
 
